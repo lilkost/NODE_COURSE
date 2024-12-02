@@ -1,3 +1,4 @@
+<img src="https://green-api.com/en/docs/chatbots/nodejs/assets/nodejs.png" title="node logo" style="text-align:center;">
 ```
 NODE JS курс
 ```
