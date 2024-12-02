@@ -14,5 +14,5 @@ NODE JS курс
    4. <a href="https://github.com/lilkost/NODE_COURSE/tree/main/NODE_4" style="color: currentColor;">Работа с JSON</a>
 </h2>
 <h2>
-   5. <a href="https://github.com/lilkost/NODE_COURSE/tree/main/NODE_4" style="color: currentColor;">Сервер на NODE</a>
+   5. <a href="https://github.com/lilkost/NODE_COURSE/tree/main/SERVER_NODE" style="color: currentColor;">Сервер на NODE</a>
 </h2>
