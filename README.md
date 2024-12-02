@@ -1,6 +1,6 @@
 <img src="https://green-api.com/en/docs/chatbots/nodejs/assets/nodejs.png" title="node logo" style="text-align:center; display: block; margin: 0 auto;" width="150" align="center">
 ```
-NODE JS курс
+Нихуя не понятно, но очень интерестно
 ```
 <h2>
   1. <a href="https://github.com/lilkost/NODE_COURSE/tree/main/NODE_1" style="color: currentColor;">Создание модулей</a>
